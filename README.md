@@ -12,14 +12,14 @@ Data Analyst with hands-on experience in SQL, Power BI, and end-to-end analytics
 
 ## Projects
 
-### 📊 Case 1 — IBM HR Attrition Analysis
+###  Case 1 — IBM HR Attrition Analysis
 **Tools:** Power BI · DAX · Excel  
 **Description:** End-to-end HR attrition analysis of 1,470 employees identifying that ~70% of attrition concentrates in three entry-level roles. Delivered executive-level insights linking stock option access to 65% of employee departures.  
 🔗 [View Project](./case-1-ibm-hr-attrition)
 
 ---
 
-### 🛒 Case 2 — Olist E-Commerce Analysis
+###  Case 2 — Olist E-Commerce Analysis
 **Tools:** SQL Server · Power BI  
 **Description:** End-to-end analysis of 99K+ Brazilian e-commerce transactions covering revenue trends, customer retention, logistics and seller performance. Identified that 97% of customers did not repurchase and a 21-day logistics gap across states.  
 🔗 [View Project](./case-2-olist-ecommerce)
