@@ -1,7 +1,7 @@
 # Juan Diego Rodríguez Ávila
 ## Data Analyst | SQL · Power BI · Python · Excel
 
-📍 Costa Rica | 📧 jdrodriguez2325@gmail.com | 💼 linkedin.com/in/jdrodriguezavila
+📍 Costa Rica | 📧 [jdrodriguez2325@gmail.com](mailto:jdrodriguez2325@gmail.com) | 💼 [linkedin.com/in/jdrodriguezavila](https://linkedin.com/in/jdrodriguezavila)
 
 ---
 
