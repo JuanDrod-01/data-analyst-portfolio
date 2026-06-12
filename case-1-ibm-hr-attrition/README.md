@@ -11,9 +11,10 @@ Power BI · DAX · Excel
 - 1,470 employees · 35 variables
 
 ## Key Findings
-- ~70% of attrition concentrates in three entry-level roles
-- Stock option access linked to 65% of employee departures
-- Salary gap identified between retained and departed employees
+- ~70% of attrition concentrates in three entry-level roles: Laboratory Technician, Research Scientist, and Sales Executive
+- 65% of employees who left had no access to stock options
+- Attrition peaks during the first year, regardless of satisfaction level
+- Salary gap exists but is only $500–$700 in the highest-attrition roles — salary alone does not explain departures
 
 ## Dashboard Pages
 1. Overview
@@ -25,5 +26,5 @@ Power BI · DAX · Excel
 ## Files
 | File | Description |
 |---|---|
-| `IBM_HR_Dashboard.pdf` | Power BI dashboard export |
-| `IBM_HR_Dashboard.pbix` | Power BI source file |
+| `IBM_HR_Attrition_Analysis_Dashboard.pdf` | Power BI dashboard export |
+| `IBM_HR_Attrition_Analysis.pbix` | Power BI source file |
